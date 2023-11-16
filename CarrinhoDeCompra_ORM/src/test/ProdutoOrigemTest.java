@@ -11,7 +11,10 @@ import model.Editora;
 public class ProdutoOrigemTest {
 	
 	public static void main(String[] args) {
-		
+
+
+
+
 		LojaOrigem loja = new LojaOrigem(12367, "Minha Loja");
 		Produto produto = new Produto(1234, "12/09/2023", loja);
 		
